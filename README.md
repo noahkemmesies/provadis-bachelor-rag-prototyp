@@ -1,6 +1,6 @@
 # RAG Kubernetes Retrieval Comparison
 
-Bachelorarbeit: Vergleich von BM25 vs. Embedding-basierten Vektorsuche in einer RAG-Pipeline
+Vergleich von BM25 und Embedding-basierter Vektorsuche in einer RAG-Pipeline
 
 ## Überblick
 
