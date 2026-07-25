@@ -1,0 +1,40 @@
+# Core
+python-dotenv
+
+# Data Processing & Parsing
+PyYAML
+pandas
+numpy
+
+# NLP & Embeddings
+sentence-transformers
+transformers
+torch
+
+# Retrieval
+rank-bm25
+chromadb
+faiss-cpu
+
+# LLM & RAG
+langchain
+langchain-community
+ollama
+
+# Evaluation
+scikit-learn
+
+# Jupyter & Analysis
+jupyter
+jupyterlab
+matplotlib
+seaborn
+plotly
+
+# Testing
+pytest
+pytest-cov
+
+# Utilities
+tqdm
+requests
